@@ -18,10 +18,14 @@ a, body{
 }
 h2{
     text-align: center;
-    border-bottom: 2px;
-    border-width: 3px;
-    border-color: blanchedalmond;
+
 }
 .card{
     height: 100%;
+}
+.subtitulo{
+    border-bottom: 4px;
+    border-width: 3px;
+    border-color: #ffffff;
+
 }
